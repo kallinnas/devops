@@ -62,5 +62,5 @@ class Ex:
 Ex.revArr()
 # Ex.replaceCharAndUpperToWord_laptop()
 # Ex.call()
-#Comment from github
+#Comment from github 2
 #Comment from pc before merge
